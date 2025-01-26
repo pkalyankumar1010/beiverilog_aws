@@ -1,0 +1,482 @@
+    1  pwd
+    2  ls
+    3  cd /
+    4  sudo
+    5  sudo vim
+    6  git
+    7  yum install git -y
+    8  sudo yum install git -y
+    9  git
+   10  sdo apt update
+   11  sudo apt update
+   12  pwd
+   13  git
+   14  df -kf .
+   15  df -kh .
+   16  sudo apt update
+   17  [200~sudo yum install iverilog
+   18  sudo yum install iverilog
+   19  dnf
+   20  git clone https://github.com/steveicarus/iverilog.git
+   21  pwd
+   22  ls
+   23  cd iverilog/
+   24  ls
+   25  sh autoconf.sh
+   26  cat autoconf.sh 
+   27  sh autoconf.sh
+   28  vim autoconf.sh 
+   29  sudo yum update
+   30  sudo yum install autoconf
+   31  sh autoconf.sh
+   32  sudo yum install gperf
+   33  sh autoconf.sh
+   34  ./configure
+   35  sudo yum install gcc
+   36  ./configure
+   37  sudo yum install flex
+   38  ./configure
+   39  sudo yum install bison
+   40  ./configure
+   41  sudo yum install gcc-c++~
+   42  sudo yum install gcc-c++
+   43  ./configure
+   44  sudo make install
+   45  pwd
+   46  ls
+   47  iverilog
+   48  ls
+   49  cd ..
+   50  cd -
+   51  pwd
+   52  history
+   53  history | grep install
+   54  history | grep install > iverilog_install_commands
+   55  git clone https://github.com/pkalyankumar1010/iverilog_be.git
+   56  cd iverilog
+   57  cd ..
+   58  cd iverilog_be/
+   59  ls
+   60  which python
+   61  sudo yum install python3
+   62  which python3
+   63  which
+   64  echo $SHELL
+   65  gvim ~/.bashrc
+   66  vim ~/.bashrc
+   67  python3 --version
+   68  python3 -m venv venv
+   69  ls -a
+   70  python3 -m venv .venv
+   71  source .venv/bin/activate.csh 
+   72  source .venv/bin/activate
+   73  rm -rf venv
+   74  ls
+   75  python3 manage.py runserver
+   76  python3 -m pip install requirements.txt 
+   77  python3 -m pip install -r requireme
+   78  python3 -m pip install --upgrade pip
+   79  python3 -m pip install -r requirements.txt 
+   80  sudo yum install python3
+   81  sudo yum install python3.12 -y
+   82  which python3.12
+   83  rm -rf .venv/
+   84  python3.12 -m venv .venv
+   85  cd ..
+   86  exit
+   87  pwd
+   88  cd iverilog_be/
+   89  ls
+   90  ls -a
+   91  rm -rf .venv/
+   92  #python3.12 -m venv .venv
+   93  python3.12 -m venv .venv
+   94  source .venv/bin/activate
+   95  which python
+   96  python -m pip install -r requirements.txt 
+   97  python -m pip install --upgrade pip
+   98  python -m pip install -r requirements.txt 
+   99  python manage.py runserver
+  100  sudo yum update -y
+  101  sudo yum install httpd -y
+  102  sudo systemctl start httpd
+  103  sudo systemctl enable httpd
+  104  sudo systemctl status httpd
+  105  history
+  106  #sudo apt install certbot python3-certbot-apache -y
+  107  sudo yum install certbot python3-certbot-apache -y
+  108  sudo certbot --apache
+  109  ls /etc/apach2/
+  110  ls /etc/apache2/
+  111  ls /etc/apach*
+  112  ls /etc/
+  113  ls /etc/a*
+  114  which apache
+  115  ls /etc/httpd/conf/httpd.conf 
+  116  vim /etc/httpd/conf/httpd.conf 
+  117  vim /etc/httpd/conf.d/README 
+  118  vim /etc/httpd/conf/httpd.conf 
+  119  sudo vim /etc/httpd/conf/httpd.conf 
+  120  realpath  iverilog_be/.venv/bin/python3.12
+  121    iverilog_be/.venv/bin/python3
+  122  realpath  iverilog_be/.venv/bin/python
+  123  pwd
+  124  realpath  iverilog_be/.venv/bin/
+  125  /home/ec2-user/iverilog_be/.venv/bin/python3.12
+  126  ls /home/ec2-user/iverilog_be/verilog_compiler/wsgi.py 
+  127  sudo vim /etc/httpd/conf/httpd.conf 
+  128  sudo vim /etc/httpd/kalyan.conf
+  129  sudo systemctl start httpd
+  130  sudo a2ensite myproject.conf
+  131  sudo systemctl restart apache2
+  132  sudo systemctl start httpd
+  133  sudo systemctl stop httpd
+  134  sudo systemctl start httpd
+  135  sudo systemctl status httpd
+  136  sudo vim /etc/httpd/conf/httpd.conf 
+  137  sudo vim /etc/httpd/kalyan.conf 
+  138  gvim ~/.vimrc
+  139  vim ~/.vimrc
+  140  sudo vim /etc/httpd/kalyan.conf 
+  141  sudo yum install mod_wsgi -y
+  142  apachectl -M
+  143  apachectl -m
+  144  apachectl 
+  145  sudo systemctl status httpd
+  146  mode_wsgi
+  147  sudo yum install mod_wsgi 
+  148  /us/usr/lib64/
+  149  history
+  150  sudo yum install mod_wsgi -y
+  151  sudo yum install epel-release -y
+  152  sudo amazon-linux-extras enable epel
+  153  sudo yum install epel-release -y
+  154  python3.12 -m pip install mod_wsgi
+  155  pwd
+  156  source iverilog_be/.venv/bin/activate
+  157  python3.12 -m pip install mod_wsgi
+  158  sudo yum install httpd-devel -y
+  159  python3.12 -m pip install mod_wsgi
+  160  sudo yum install python3.12-devel -y
+  161  sudo yum groupinstall "Development Tools" -y
+  162  sudo yum install httpd-devel gcc -y
+  163  python3.12 -m pip install mod_wsgi
+  164  which mod_wsgi
+  165  apachectl -M 
+  166  sudo yum install mod_wsgi
+  167  ls 
+  168  rp iverilog_be/.venv/lib64/python3.12/site-packages/mod_wsgi/server/mod_wsgi-py312.cpython-312-x86_64-linux-gnu.so 
+  169  realpath iverilog_be/.venv/lib64/python3.12/site-packages/mod_wsgi/server/mod_wsgi-py312.cpython-312-x86_64-linux-gnu.so 
+  170  sudo vim /etc/httpd/kalyan.conf 
+  171  sudo systemctl start httpd
+  172  sudo systemctl stop httpd
+  173  sudo systemctl status httpd
+  174  sudo systemctl start httpd
+  175  sudo systemctl status httpd
+  176  sudo systemctl start httpd
+  177  sudo systemctl status httpd
+  178  sudo systemctl stop httpd
+  179  sudo systemctl status httpd
+  180  sudo systemctl start httpd
+  181  sudo systemctl status httpd
+  182  LoadModule wsgi_module
+  183  curl http://127.0.0.1
+  184  curl ifconfig.me
+  185  sudo vim /etc/httpd/kalyan.conf 
+  186  sudo systemctl status httpd
+  187  sudo systemctl start httpd
+  188  sudo systemctl status httpd
+  189  curl ifconfig.me
+  190  chmod 777 iverilog_be/verilog_compiler/wsgi.py 
+  191  sudo systemctl stop httpd
+  192  sudo systemctl start httpd
+  193  sudo systemctl status httpd
+  194  curl ifconfig.me
+  195  curl curl ifconfig.me
+  196  curl `curl ifconfig.me`
+  197  chmod -R 755 ./iverilog_be/
+  198  sudo systemctl stop httpd
+  199  sudo systemctl status httpd
+  200  sudo systemctl start httpd
+  201  sudo systemctl status httpd
+  202  curl `curl ifconfig.me`
+  203  vim /etc/httpd/conf/httpd.conf 
+  204  sudo vim /etc/httpd/conf/httpd.conf 
+  205  sudo systemctl status httpd
+  206  sudo systemctl stop httpd
+  207  sudo systemctl start httpd
+  208  sudo vim /etc/httpd/conf/httpd.conf 
+  209  sudo vim /etc/httpd/kalyan.conf 
+  210  sudo systemctl stop httpd
+  211  sudo systemctl start httpd
+  212  sudo vim /etc/httpd/kalyan.conf 
+  213  history
+  214  sudo vim /etc/httpd/kalyan.conf 
+  215  ls -a
+  216  cd iverilog_be
+  217  ls -a
+  218  ll -a
+  219  ll -a verilog_compiler/
+  220  pwd
+  221  cd ..
+  222  history
+  223  history > iverilog_install_commands_2nd
+  224  ls
+  225  history
+  226  sudo systemctl status httpd
+  227  ls /etc/httpd/logs/
+  228  sudo ls /etc/httpd/logs/
+  229  sudo ll /etc/httpd/logs/
+  230  sudo ls -l /etc/httpd/logs/
+  231  sudo vim /etc/httpd/logs/access_log
+  232  sudo vim /etc/httpd/logs/error_log
+  233  sudo vim /etc/httpd/kalyan.conf
+  234  sudo systemctl stop httpd
+  235  sudo systemctl start httpd
+  236  sudo systemctl status httpd
+  237  sudo vim /etc/httpd/logs/error_log
+  238  sudo systemctl stop httpd
+  239  sudo systemctl start httpd
+  240  sudo systemctl status httpd
+  241  sudo vim /etc/httpd/logs/error_log
+  242  sudo vim /etc/httpd/kalyan.conf
+  243  sudo systemctl stop httpd
+  244  sudo systemctl start httpd
+  245  sudo systemctl status httpd
+  246  sudo vim /etc/httpd/kalyan.conf
+  247  ls
+  248  chmod -R 777 iverilog_be
+  249  sudo systemctl stop httpd
+  250  sudo systemctl start httpd
+  251  sudo systemctl status httpd
+  252  sudo vim /etc/httpd/logs/error_log
+  253  ls -l /home/ec2-user/iverilog_be/.venv/
+  254  sudo vim /etc/httpd/kalyan.conf
+  255  chmod -R 777 iverilog_be/.venv/
+  256  sudo systemctl stop httpd
+  257  sudo systemctl start httpd
+  258  sudo systemctl status httpd
+  259  sudo vim /etc/httpd/logs/error_log
+  260  sudo vim /etc/httpd/kalyan.conf
+  261  ll 
+  262  ll iverilog_be
+  263  sudo usermod -a -G ec2-user apache
+  264  sestatus
+  265  sudo systemctl stop httpd
+  266  sudo systemctl start httpd
+  267  sudo vim /etc/httpd/logs/error_log
+  268  sudo vim /etc/httpd/kalyan.conf
+  269  sudo systemctl stop httpd
+  270  sudo systemctl start httpd
+  271  sudo vim /etc/httpd/logs/error_log
+  272  sudo systemctl stop httpd
+  273  sudo systemctl start httpd
+  274  sudo vim /etc/httpd/logs/error_log
+  275  ls iverilog_be/manage.py 
+  276  ll iverilog_be/manage.py 
+  277  sestatus
+  278  sudo systemctl stop httpd
+  279  sudo systemctl start httpd
+  280  sudo vim /etc/httpd/logs/error_log
+  281  sudo vim /etc/httpd/kalyan.conf
+  282  sudo systemctl stop httpd
+  283  sudo systemctl start httpd
+  284  sudo vim /etc/httpd/logs/error_log
+  285  sudo vim /etc/httpd/kalyan.conf
+  286  sudo systemctl stop httpd
+  287  sudo systemctl start httpd
+  288  sudo vim /etc/httpd/logs/error_log
+  289  sudo systemctl status httpd
+  290  sudo vim /etc/httpd/logs/error_log
+  291  ls
+  292  cd iverilog_be/
+  293  ls
+  294  source .venv/bin/activate
+  295  python -m pip freeze > req
+  296  diff req requirements.txt 
+  297  exit
+  298  which python3.12
+  299  pwd
+  300  cd iverilog_be
+  301  rm -rf .venv/
+  302  python3.12 venv .venv
+  303  python3.12 -venv .venv
+  304  python3.12 -m venv .venv
+  305  source .venv/bin/activate
+  306  python -m pip install -r req
+  307  sudo systemctl stop httpd
+  308  sudo systemctl start httpd
+  309  sudo vim /etc/httpd/logs/error_log
+  310   .venv/bin/python3 --version
+  311  sudo systemctl stop httpd
+  312  sudo systemctl start httpd
+  313  sudo vim /etc/httpd/logs/error_log
+  314  ls -ld /home/ec2-user /home/ec2-user/iverilog_be /home/ec2-user/iverilog_be/.venv
+  315  chmod -R 777 /home/ec2-user
+  316  cat /etc/httpd/conf/httpd.conf | grep -i '^user\|^group'
+  317  sudo chown -R apache:apache /home/ec2-user/iverilog_be/.venv
+  318  ll /home/ec2-user/iverilog_be/.venv
+  319  ll /home/ec2-user/iverilog_be/.venv/bin
+  320  pwd
+  321  sudo chown -R apache:apache /home/ec2-user/iverilog_be/
+  322  ls
+  323  ll
+  324  sudo systemctl stop httpd
+  325  sudo systemctl start httpd
+  326  sudo vim /etc/httpd/logs/error_log
+  327  sudo vim /etc/httpd/logs/access_log
+  328  sudo vim /etc/httpd/logs/error_log
+  329  sudo vim /etc/httpd/logs/access_log
+  330  sudo systemctl start httpd
+  331  sudo systemctl status httpd
+  332  sudo vim /etc/httpd/logs/error_log
+  333  sudo vim /etc/httpd/conf/httpd.conf 
+  334  sudo systemctl stop httpd
+  335  sudo systemctl start httpd
+  336  sudo vim /etc/httpd/logs/error_log
+  337  sudo vim /etc/httpd/logs/acess_log
+  338  sudo vim /etc/httpd/logs/access_log
+  339  sudo vim /etc/httpd/conf/httpd.conf 
+  340  sudo vim /etc/httpd/kalyan.conf 
+  341  ll /home/ec2-user/iverilog_be/verilog_compile/wsgi.py
+  342  ll /home/ec2-user/iverilog_be/verilog_compile/
+  343  ll /home/ec2-user/iverilog_be/ver
+  344  sudo vim /etc/httpd/kalyan.conf 
+  345  sudo systemctl stop httpd
+  346  sudo systemctl start httpd
+  347  sudo vim /etc/httpd/logs/access_log
+  348  vim verilog_compiler/settings.py 
+  349  sudo systemctl stop httpd
+  350  sudo systemctl start httpd
+  351  realpath .venv/lib64/python3.12/site-packages/drf_yasg/static/
+  352  sudo vim /etc/httpd/kalyan.conf 
+  353  sudo systemctl stop httpd
+  354  sudo systemctl start httpd
+  355  ll .venv/lib64/python3.12/site-packages/drf_yasg/static/
+  356  ll .venv/lib64/python3.12/site-packages/drf_yasg/static/drf-yasg/
+  357  ll .venv/lib64/python3.12/site-packages/
+  358  sudo vim /etc/httpd/kalyan.conf 
+  359  sudo systemctl stop httpd
+  360  sudo systemctl start httpd
+  361  ls
+  362  ll
+  363  sudo chown -R ec2-user:ec2-user /home/ec2-user/iverilog_be/
+  364  ll
+  365  history | grep User
+  366  history | grep group
+  367  sudo vim /etc/httpd/conf/httpd.conf
+  368  sudo systemctl stop httpd
+  369  sudo systemctl start httpd
+  370  sudo vim /etc/httpd/logs/access_log
+  371  sudo vim /etc/httpd/logs/error_log
+  372  sudo chown -R apache:apache /home/ec2-user/iverilog_be/
+  373  chmod -R 777 /home/ec2-user
+  374  ll
+  375  sudo systemctl stop httpd
+  376  sudo systemctl start httpd
+  377  sudo vim /etc/httpd/logs/error_log
+  378  ll
+  379  ll .venv/
+  380  sudo vim /etc/httpd/conf/httpd.conf
+  381  sudo systemctl stop httpd
+  382  sudo systemctl start httpd
+  383  vim verilog_compiler/view.py
+  384  vim verilog_compiler/views.py
+  385  vim verilog_app/views.py 
+  386  vim /tmp/top.v
+  387  vim verilog_app/views.py 
+  388  sudo systemctl stop httpd
+  389  sudo systemctl start httpd
+  390  ip -6 addr
+  391  sudo vim /etc/httpd/kalyan.conf
+  392  sudo systemctl stop httpd
+  393  sudo systemctl start httpd
+  394  sudo systemctl status httpd
+  395  pwd
+  396  vim iverilog_be/verilog_compiler/settings.py 
+  397  sudo vim /etc/httpd/logs/error_log
+  398  ls
+  399  ll iverilog_be/
+  400  ll iverilog_be/verilog_compiler/settings.py 
+  401  vim iverilog_be/verilog_compiler/settings.py 
+  402  sudo vim /etc/httpd/kalyan.conf
+  403  vim iverilog_be/verilog_compiler/settings.py 
+  404  sudo systemctl stop httpd
+  405  sudo systemctl start httpd
+  406  pwd
+  407  cd iverilog_be/
+  408  source .venv/bin/activate
+  409  python manage.py collectstatic
+  410  vim iverilog_be/verilog_compiler/settings.py 
+  411  vim verilog_compiler/settings.py 
+  412  python manage.py collectstatic
+  413  vim verilog_compiler/settings.py 
+  414  ls
+  415  vim verilog_compiler/settings.py 
+  416  sudo systemctl stop httpd
+  417  sudo systemctl start httpd
+  418  sudo vim /etc/httpd/kalyan.conf
+  419  sudo systemctl stop httpd
+  420  sudo systemctl start httpd
+  421  ip -6 addr
+  422  hostname
+  423  ipconfig
+  424  curl ifconfig.me
+  425  sudo vim /etc/httpd/kalyan.conf
+  426  sudo systemctl stop httpd
+  427  sudo systemctl start httpd
+  428  sudo vim /etc/httpd/kalyan.conf
+  429  sudo ufw status
+  430  history | grep cert
+  431  sudo certbot --apache
+  432  systemctl status httpd.service
+  433  sudo certbot --apache
+  434  vim /etc/httpd/kalyan-le-ssl.conf
+  435  sudo vim /etc/httpd/kalyan-le-ssl.conf
+  436  sudo certbot --apache
+  437  sudo vim /etc/httpd/kalyan-le-ssl.conf
+  438  sudo vim /etc/httpd/kalyan.conf 
+  439  sudo certbot --apache
+  440  sudo vim /etc/httpd/kalyan.conf 
+  441  sudo certbot --apache
+  442  sudo vim /etc/httpd/kalyan.conf 
+  443  sudo certbot --apache
+  444  sudo systemctl stop httpd
+  445  sudo systemctl start httpd
+  446  sudo certbot --apache
+  447  journalctl -xeu httpd.service
+  448  sudo certbot --apache
+  449  certbot --apcahe
+  450  history | grep apache
+  451  sudo certbot --apache
+  452  sudo ll /etc/httpd/kalyan-le-ssl.conf
+  453  sudo ls -l /etc/httpd/kalyan-le-ssl.conf
+  454  sudo cat /etc/httpd/conf/httpd.conf  | grep WSGI
+  455  sudo cat /etc/httpd/kalyan.conf  | grep WSGI
+  456  sudo vim /etc/httpd/kalyan.conf  
+  457  sudo certbot --apache
+  458  sudo journalctl -xeu httpd.service
+  459  sudo apachectl configtest
+  460  sudo grep -r "WSGIDaemonProcess" /etc/httpd/
+  461  sudo ls -l  /etc/letsencrypt/
+  462  sudo ls -l  /etc/letsencrypt/live/
+  463  sudo ls -l  /etc/letsencrypt/live/beiverilog.sumathi.dev
+  464  sudo ls -l  /etc/httpd/kalyan.conf 
+  465  sudo vim  /etc/httpd/kalyan.conf 
+  466  sudo systemctl stop httpd
+  467  sudo systemctl stsrt httpd
+  468  sudo systemctl start httpd
+  469  vim iverilog_be/verilog_compiler/settings.py 
+  470  sudo systemctl stop httpd
+  471  sudo systemctl start httpd
+  472  vim iverilog_be/verilog_compiler/settings.py 
+  473  sudo systemctl stop httpd
+  474  sudo systemctl start httpd
+  475  vim iverilog_be/verilog_compiler/settings.py 
+  476  sudo systemctl stop httpd
+  477  sudo systemctl start httpd
+  478  pwd
+  479  cd iverilog_be
+  480  ls
+  481  history
+  482  history > history
